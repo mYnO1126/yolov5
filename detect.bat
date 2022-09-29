@@ -1,0 +1,1 @@
+python detect.py --source ../data/ship_1.mkv --weights weights/trans_4512_best.pt --imgsz 4512 --device 0 --line-thickness 2
